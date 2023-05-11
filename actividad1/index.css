@@ -1,0 +1,15 @@
+.primary{
+    background-color: #000000;
+    height: 40px;
+    width: 80px;
+    margin: 12px 8px;
+    color: white;
+}
+
+#content{
+    color: #122fe8;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+

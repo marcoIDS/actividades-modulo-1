@@ -1,0 +1,22 @@
+.parent{
+    border: solid 1px black;
+    padding: 10px;
+    width: 300px;
+}
+
+.child{
+    display: flex;
+    justify-content: space-between;
+    border: solid 1px black;
+    padding: 10px;
+}
+
+.node{
+    border: solid 1px black;
+    padding: 10px;
+    width: 35px;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
