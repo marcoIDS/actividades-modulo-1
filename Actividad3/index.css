@@ -1,0 +1,32 @@
+.content{
+    width: 420px;
+    height: 660px;
+    background-color: #636e75;
+    padding: 12px;
+    display: grid;
+    grid-gap: 10px;
+}
+
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.row div{
+    width: 80px;
+    height: 80px;
+    background-color: #aab7bf;
+    border-radius: 5px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 28px;
+    font-weight: bold;
+    color: white;
+}
+
+.header{
+    width: 100% !important;
+}
