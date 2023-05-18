@@ -1,0 +1,13 @@
+.card{
+    width: 100%;
+    height: 600px;
+}
+
+.container{
+    padding: 80px 160px;
+}
+
+.info{
+    background-color: #3f68d9;
+    height: 600px;
+}
